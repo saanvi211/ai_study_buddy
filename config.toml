@@ -1,0 +1,6 @@
+[theme]
+# Set a premium indigo primary color
+primaryColor = "#6366f1"
+# We don't force a background or text color so Streamlit natively supports BOTH
+# light mode and dark mode natively based on user OS/browser preferences.
+font = "sans serif"
